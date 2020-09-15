@@ -1,0 +1,35 @@
+.my_title{
+  display: flex;
+  align-items:center;
+  padding: 10rpx;
+  background-color: white;
+  
+}
+.logo{
+  flex: 10;
+ 
+}
+search_icon{
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.user_icon{
+  flex: 2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.setting_icon
+{
+  flex: 3;
+  font-size: 15rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color:#7fb6ff;
+  color: #fff;
+  border-radius: 10rpx;
+  padding: 10rpx;
+}
